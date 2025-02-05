@@ -3,8 +3,25 @@
 # 👋 Hey there
 **I'm Lucas (he/him)** - I'm a minecraft modder and designer, python programmer, and high-school student. I'm Intrested in leadership and moderation, online communities, and management. I work on python projects, or minecraft mods in my free time.
 
+## 👑 Journey to Full Stack
+### 2/5 Stacks Learned
+
+**❌ Front-End**:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+**✅ Back-End**:
+[![My Skills](https://skillicons.dev/icons?i=net,java,py)](https://skillicons.dev)
+
+**✅ Databases**:
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb)](https://skillicons.dev)
+
+**🟡 (Currently Learning) Devops**:
+[![My Skills](https://skillicons.dev/icons?i=gitlab,aws,gcp)](https://skillicons.dev)
+
+**❌ Mobile App Dev**:
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,swift,flutter,react)](https://skillicons.dev)
 # 💽 Profile Overview (Skills, Streaks, Charts, ect)
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,blender,git,github,java,kali,linux,py,pycharm,replit,vscode,windows)](https://skillicons.dev)
+
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-timeworkstudio&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
 
