@@ -23,7 +23,7 @@
 # 💽 Profile Overview (Skills, Streaks, Charts, ect)
 
 <details>
-<summary>🏗️ My 2022-2025 Technical Skills</summary>
+<summary>🏗️ My Technical Skills 2022+</summary>
 
 ![My 2022-2025 Review](https://github.com/user-attachments/assets/7007e85d-0193-4b30-a010-f9e0e35655e1)
 ![My 2022-2025 Review pt. 2](https://github.com/user-attachments/assets/a9304cdd-52e2-4013-be87-7b832d1b6e3c)
@@ -39,6 +39,7 @@
 
 </details>
 
+[![roadmap.sh](https://roadmap.sh/card/tall/67a3ef2ff86334348242e469?variant=dark)](https://roadmap.sh)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-timeworkstudio&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
 
 ![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=lucas-timeworkstudio&theme=tokyo-night)
