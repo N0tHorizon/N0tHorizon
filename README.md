@@ -1,16 +1,22 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=250&color=29BCF7&center=true&vCenter=true&width=435&lines=TimeWorkStudio;lucas)](https://git.io/typing-svg)
 
-<!--
-**lucas-onicci/lucas-onicci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there
+**I'm Lucas (he/him)** - I'm a minecraft modder and designer, python programmer, and high-school student. I'm Intrested in leadership and moderation, online communities, and management. I work on python projects, or minecraft mods in my free time.
 
-Here are some ideas to get you started:
+# 💽 Profile Overview (Skills, Streaks, Charts, ect)
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,blender,git,github,java,kali,linux,py,pycharm,replit,vscode,windows)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-onicci&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucas-onicci&theme=tokyonight)
+
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![GitHub Followers](https://img.shields.io/github/followers/lucas-onicci?logo=github&style=for-the-badge)
