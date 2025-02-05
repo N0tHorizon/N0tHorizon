@@ -8,7 +8,9 @@
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-timeworkstudio&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucas-timeworkstudio&theme=tokyonight)
+![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=lucas-timeworkstudio&theme=tokyo-night)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-timeworkstudio&show_icons=true&theme=tokyonight)
+
 
 ![VS Code](https://img.shields.io/badge/Editor-VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
 
