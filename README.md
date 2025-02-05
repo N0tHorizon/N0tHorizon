@@ -34,6 +34,8 @@
 - NAS Configuration
 - Networking & Cloud Access
 - RaspberryPi Development
+- AI API Configuration
+- System/Database Management
 
 </details>
 
