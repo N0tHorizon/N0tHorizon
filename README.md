@@ -24,10 +24,6 @@
 
 <details>
 <summary>🏗️ My Technical Skills 2022+</summary>
-
-![My 2022-2025 Review](https://github.com/user-attachments/assets/7007e85d-0193-4b30-a010-f9e0e35655e1)
-![My 2022-2025 Review pt. 2](https://github.com/user-attachments/assets/a9304cdd-52e2-4013-be87-7b832d1b6e3c)
-
 ## More Technical Skills
 - Virtual Machines
 - Cloud Management
@@ -36,6 +32,12 @@
 - RaspberryPi Development
 - AI API Configuration
 - System/Database Management
+- QA Engineering
+  
+![My 2022-2025 Review](https://github.com/user-attachments/assets/7007e85d-0193-4b30-a010-f9e0e35655e1)
+![My 2022-2025 Review pt. 2](https://github.com/user-attachments/assets/a9304cdd-52e2-4013-be87-7b832d1b6e3c)
+
+
 
 </details>
 
