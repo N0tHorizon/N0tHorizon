@@ -24,6 +24,7 @@
 
 <details>
 <summary>🏗️ My Technical Skills 2022+</summary>
+  
 ## More Technical Skills
 - Virtual Machines
 - Cloud Management
