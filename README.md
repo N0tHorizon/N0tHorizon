@@ -26,6 +26,8 @@
 <summary>🏗️ My Technical Skills 2022+</summary>
   
 ## More Technical Skills
+- Cloudflare Dash/Webpage Configuration
+- DNS/Server w/ Pteroq (Minecraft)
 - Virtual Machines
 - Cloud Management
 - NAS Configuration
