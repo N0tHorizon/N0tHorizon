@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=250&color=29BCF7&center=true&vCenter=true&width=435&lines=TimeWorkStudio;lucas)](https://git.io/typing-svg)
 
 # 👋 Hey there
-**I'm Lucas (he/him)** - I'm a minecraft modder and designer, python programmer, and high-school student. I'm Intrested in leadership and moderation, online communities, and management. I work on python projects, or minecraft mods in my free time.
+**I'm Lucas (he/him)** - I'm a python programmer and high-school student. I do work in leadership and management. I work on python projects, or software development in my free time.
 
 ## 👑 Journey to Full Stack
-### 2/5 Stacks Learned
+### 3/5 Stacks Learned
 
-**❌ Front-End**:
+**🟡 (Currently Leanring) Front-End**:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 **✅ Back-End**:
@@ -15,7 +15,7 @@
 **✅ Databases**:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb)](https://skillicons.dev)
 
-**🟡 (Currently Learning) Devops**:
+**✅ Devops**:
 [![My Skills](https://skillicons.dev/icons?i=gitlab,aws,gcp)](https://skillicons.dev)
 
 **❌ Mobile App Dev**:
