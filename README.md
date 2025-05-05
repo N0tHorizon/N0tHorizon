@@ -3,29 +3,11 @@
 # 👋 Hey there
 **I'm Lucas (he/him)** - I'm a python programmer and high-school student. I do work in leadership and management. I work on python projects, or software development in my free time.
 
-## 👑 Journey to Full Stack
-### 3/5 Stacks Learned
-
-**🟡 (Currently Leanring) Front-End**:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
-**✅ Back-End**:
+## 👑 My Skills
 [![My Skills](https://skillicons.dev/icons?i=net,java,py)](https://skillicons.dev)
-
-**✅ Databases**:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb)](https://skillicons.dev)
-
-**✅ Devops**:
 [![My Skills](https://skillicons.dev/icons?i=gitlab,aws,gcp)](https://skillicons.dev)
 
-**❌ Mobile App Dev**:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,swift,flutter,react)](https://skillicons.dev)
-# 💽 Profile Overview (Skills, Streaks, Charts, ect)
-
-<details>
-<summary>🏗️ My Technical Skills 2022+</summary>
-  
-## More Technical Skills
 - Cloudflare Dash/Webpage Configuration
 - DNS/Servers
 - Virtual Machines
@@ -39,13 +21,7 @@
 - Software Development
 - AWS/GC/Oracle Servers
 - Malware Testing/Anylysis with any.run
-  
-![My 2022-2025 Review](https://github.com/user-attachments/assets/7007e85d-0193-4b30-a010-f9e0e35655e1)
-![My 2022-2025 Review pt. 2](https://github.com/user-attachments/assets/a9304cdd-52e2-4013-be87-7b832d1b6e3c)
 
-
-
-</details>
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-timeworkstudio&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
 
