@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=250&color=29BCF7&center=true&vCenter=true&width=435&lines=TimeWorkStudio;lucas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=250&color=EBC934&center=true&vCenter=true&width=435&lines=Ducky)](https://git.io/typing-svg)
 
 # 👋 Hey there
 **I'm Ducky (he/him)** - I'm a python programmer and high-school student. I do work in leadership and management. I work on python projects, or software development in my free time.
