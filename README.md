@@ -1,27 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=250&color=EBC934&center=true&vCenter=true&width=435&lines=Horizon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=250&color=5EB6DB&center=true&vCenter=true&width=435&lines=Horizon)](https://git.io/typing-svg)
 
-# 👋 Hey there
-**I'm Horizon (he/him)** - I'm a python programmer and high-school student. I do work in leadership and management. I work on python projects, or software development in my free time.
+# N0tHorizon
 
-## 👑 My Skills
-[![My Skills](https://skillicons.dev/icons?i=net,java,py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gitlab,aws,gcp)](https://skillicons.dev)
+📍 America | 🔗 github.com/N0tHorizon
 
-- Cloudflare Dash/Webpage Configuration
-- DNS/Servers
-- Virtual Machines
-- Cloud Management
-- NAS Configuration
-- Networking & Cloud Access
-- RaspberryPi Development
-- AI API Configuration
-- System/Database Management
-- QA Engineering
-- Software Development
-- AWS/GC/Oracle Servers
-- Malware Testing/Anylysis with any.run
+## Career Objective
 
+I am a motivated and self-taught student developer with a strong focus on quality assurance, networking, and PC repair. My current goal is to gain early opportunities in QA testing for websites and games, while continuing to build a foundation in cybersecurity and technology entrepreneurship. I am dedicated to problem-solving, self-learning, and pushing forward my technical expertise through both personal and collaborative projects.
+
+## Technical Skills
+
+I have experience across multiple areas of technology. My programming background includes Python, Java, .NET, and database management with MongoDB, MySQL, and DynamoDB. On the infrastructure side, I am skilled in Cloudflare configuration, DNS/server management, virtual machines, cloud systems, NAS setup, networking, and Raspberry Pi development. I also work with AI API integrations, system/database administration, AWS, Google Cloud, and Oracle servers. My QA expertise spans both software and games, with hands-on experience in malware testing and analysis using any.run. This broad foundation allows me to adapt quickly to new challenges in software development and system management.
+
+## Experience
+
+As a Volunteer QA Tester, I have worked on independent projects where I tested Roblox games and websites for performance, bugs, and overall user experience. I conducted API integration testing with a focus on stability and reliability, and I optimized game mechanics to maximize premium payout systems through structured QA processes.
+
+As a Developer & Contributor, I have contributed to open-source projects since 2024. 
+
+In addition, I have hands-on experience in PC repair and networking, gained through freelance and personal projects. This includes hardware upgrades such as RAM and storage installations, GPU/CPU optimizations, and building and configuring NAS environments with virtualization for hosting and testing. I also troubleshoot systems and provide tech support for peers, which strengthens both my technical skills and communication abilities.
+
+## Education
+
+I am currently a High School Student with a focus on self-driven learning. Most of my knowledge in development, QA, and networking has come from independent study, documentation, and structured online roadmaps. This approach has helped me develop practical skills that extend beyond the classroom.
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0tHorizon&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
 
